@@ -1,6 +1,6 @@
 # MS-Fabric-Bing-News-data
 # Data Ingestion from Bing API using Data Factory: setting the foundation for your analytics project. 
-![Home](reporting/dashboard.png) ![Home](ingestion%20and%20transformation/screenshots/dash2.png)
+![Home](reporting/dash2.png) ![Home](ingestion%20and%20transformation/screenshots/dash2.png)
 ![Home](ingestion%20and%20transformation/screenshots/2.png)
 ![Home](ingestion%20and%20transformation/screenshots/3.png)
 ![Home](ingestion%20and%20transformation/screenshots/4.png)
