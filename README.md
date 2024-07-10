@@ -7,12 +7,12 @@ This project demonstrates a comprehensive data pipeline, combining data engineer
 1. **Data Ingestion:**
     - Ingest big news data in JSON format.
     - Use PySpark for data processing and transformation.
-    - Save the transformed data in Delta tables in a data lake.
+    - Save the transformed data in Delta tables in a One lake.
 
 2. **Data Transformation:**
     - Load the JSON data into a PySpark DataFrame.
     - Perform necessary data transformations using PySpark.
-    - Save the transformed data to a Delta table in a data lake.
+    - Save the transformed data to a Delta table in a One lake.
 
 3. **Sentiment Analysis:**
     - Load the transformed data from the Delta table back into a PySpark DataFrame.
