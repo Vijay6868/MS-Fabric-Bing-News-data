@@ -5,7 +5,7 @@ This project demonstrates a comprehensive data pipeline, combining data engineer
 ## Project Workflow
 
 1. **Data Ingestion:**
-    - Ingest big news data in JSON format.
+    - Ingest Bing news data in JSON format.
     - Use PySpark for data processing and transformation.
     - Save the transformed data in Delta tables in a One lake.
 
