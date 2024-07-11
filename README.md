@@ -1,7 +1,7 @@
 # MS-Fabric-Bing-News-data
 ## Overview
 
-This project demonstrates a comprehensive data pipeline, combining data engineering with data analysis and visualization. The pipeline processes big news data in JSON format, performs transformations using PySpark, saves the data in Delta tables, loads the data for sentiment analysis, and visualizes insights using a Power BI dashboard.
+This project demonstrates a comprehensive data pipeline, combining data engineering with data analysis and visualization. The pipeline processes bing news data in JSON format, performs transformations using PySpark, saves the data in Delta tables, loads the data for sentiment analysis, and visualizes insights using a Power BI dashboard.
 ## Project Workflow
 
 1. **Data Ingestion:**
